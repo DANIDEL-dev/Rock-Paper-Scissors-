@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-
-Rock Paper Scissors game with different types of gameplay
+Rock Paper Scissors game with different types of gameplay chosen at random.
